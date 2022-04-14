@@ -1,0 +1,15 @@
+C:\Users\kim45\Desktop\C#\Cs_Yacht\bin\Debug\Cs_Yacht.exe.config
+C:\Users\kim45\Desktop\C#\Cs_Yacht\bin\Debug\Cs_Yacht.exe
+C:\Users\kim45\Desktop\C#\Cs_Yacht\bin\Debug\Cs_Yacht.pdb
+C:\Users\kim45\Desktop\C#\Cs_Yacht\obj\Debug\Cs_Yacht.csprojAssemblyReference.cache
+C:\Users\kim45\Desktop\C#\Cs_Yacht\obj\Debug\Cs_Yacht.csproj.CoreCompileInputs.cache
+C:\Users\kim45\Desktop\C#\Cs_Yacht\obj\Debug\Cs_Yacht.exe
+C:\Users\kim45\Desktop\C#\Cs_Yacht\obj\Debug\Cs_Yacht.pdb
+C:\Users\kim45\Workspace\C#\Cs_Yacht-master\bin\Debug\Cs_Yacht.exe.config
+C:\Users\kim45\Workspace\C#\Cs_Yacht-master\bin\Debug\Cs_Yacht.exe
+C:\Users\kim45\Workspace\C#\Cs_Yacht-master\bin\Debug\Cs_Yacht.pdb
+C:\Users\kim45\Workspace\C#\Cs_Yacht-master\obj\Debug\Cs_Yacht.csproj.AssemblyReference.cache
+C:\Users\kim45\Workspace\C#\Cs_Yacht-master\obj\Debug\Cs_Yacht.csproj.SuggestedBindingRedirects.cache
+C:\Users\kim45\Workspace\C#\Cs_Yacht-master\obj\Debug\Cs_Yacht.csproj.CoreCompileInputs.cache
+C:\Users\kim45\Workspace\C#\Cs_Yacht-master\obj\Debug\Cs_Yacht.exe
+C:\Users\kim45\Workspace\C#\Cs_Yacht-master\obj\Debug\Cs_Yacht.pdb
